@@ -21,6 +21,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modal Popup Snippet](https://ghost.pub/modal-popup-snippet/)
 - [Coming soon](https://ghost.pub/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
