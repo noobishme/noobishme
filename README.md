@@ -3,6 +3,9 @@
 ### Connect with me:
 
 [![noobish.me](noobish.me)](https://noobish.me)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/noobish#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/noobish#gh-dark-mode-only)
 
 ---
 
