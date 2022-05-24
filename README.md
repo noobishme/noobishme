@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[![website](noobish.me)](https://noobish.me)
+[![noobish.me](noobish.me)](https://noobish.me)
 
 <br />
 <br />
