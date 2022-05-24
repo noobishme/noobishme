@@ -1,8 +1,5 @@
 # Hi there, I'm Noobish
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCT6TKhQvIo6oZCgU3ftCLaw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://noobish.me)](https://noobish.me)
-
 ### Connect with me:
 
 [![website](noobish.me)](https://noobish.me)
