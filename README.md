@@ -21,11 +21,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Use Modal Popup](https://ghost-o-matic.com/multi-use-modal-popup/)
-- [Inline PDF Viewer](https://ghost-o-matic.com/inline-pdf-viewer/)
-- [Colorful Background Gradient](https://ghost-o-matic.com/colorful-background/)
 - [Coming soon](https://ghost.pub/coming-soon/)
-- [Fix for &quot;preventDefault&quot; Error](https://ghost-o-matic.com/fix-preventdefault-error-chrome-nicescroll/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
