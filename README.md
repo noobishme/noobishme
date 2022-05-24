@@ -33,7 +33,7 @@
 - [Fix for &quot;preventDefault&quot; Error](https://ghost-o-matic.com/fix-preventdefault-error-chrome-nicescroll/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://noobish.me)
+➡️ [more blog posts...](https://ghost-o-matic.com)
 
 ---
 
