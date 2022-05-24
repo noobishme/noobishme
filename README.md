@@ -57,11 +57,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[website]: https://noobish.me
+[youtube]: https://youtube.com/channel/UCT6TKhQvIo6oZCgU3ftCLaw
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
