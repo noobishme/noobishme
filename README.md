@@ -4,9 +4,6 @@
 
 [![noobish.me](noobish.me)](https://noobish.me)
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
