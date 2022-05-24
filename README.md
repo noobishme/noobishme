@@ -19,7 +19,7 @@
 - [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/UCT6TKhQvIo6oZCgU3ftCLaw)
+➡️ [more videos...](https://youtube.com/channel/UCT6TKhQvIo6oZCgU3ftCLaw)
 
 ---
 
