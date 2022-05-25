@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Control Your Tags!](https://ghost-o-matic.com/control-your-tags/)
 - [Video: The Salty Pink Pools of the Yucatán](https://ghost.pub/test/)
 - [Contact Us](https://ghost.pub/contact/)
 - [Authors](https://ghost.pub/authors/)
 - [Membership](https://ghost.pub/membership/)
-- [Signup](https://ghost.pub/signup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
