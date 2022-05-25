@@ -25,7 +25,7 @@
 - [Post Fullwidth](https://ghost.pub/post-fullwidth/)
 - [Changelog](https://ghost.pub/changelog/)
 - [Modal Popup Snippet](https://ghost.pub/modal-popup-snippet/)
-- [Coming soon](https://ghost.pub/coming-soon/)
+- [Multi-Use Modal Popup](https://ghost-o-matic.com/multi-use-modal-popup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
