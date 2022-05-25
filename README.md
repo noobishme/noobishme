@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Signin](https://ghost.pub/signin/)
-- [Post Fullwidth](https://ghost.pub/post-fullwidth/)
-- [Changelog](https://ghost.pub/changelog/)
-- [Modal Popup Snippet](https://ghost.pub/modal-popup-snippet/)
-- [Multi-Use Modal Popup](https://ghost-o-matic.com/multi-use-modal-popup/)
+- [Video: The Salty Pink Pools of the Yucatán](https://ghost.pub/test/)
+- [Contact Us](https://ghost.pub/contact-us/)
+- [Authors](https://ghost.pub/authors/)
+- [Membership](https://ghost.pub/membership/)
+- [Signup](https://ghost.pub/signup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
