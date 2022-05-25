@@ -22,7 +22,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Video: The Salty Pink Pools of the Yucatán](https://ghost.pub/test/)
-- [Contact Us](https://ghost.pub/contact-us/)
+- [Contact Us](https://ghost.pub/contact/)
 - [Authors](https://ghost.pub/authors/)
 - [Membership](https://ghost.pub/membership/)
 - [Signup](https://ghost.pub/signup/)
