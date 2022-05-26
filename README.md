@@ -21,7 +21,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Extra Functional Features in Ghost Themes](https://ghost-o-matic.com/extra-functional-features-in-ghost-themes/)
+- [Ghost Themes With Extras](https://ghost-o-matic.com/ghost-themes-with-extras/)
 - [Control Your Tags!](https://ghost-o-matic.com/control-your-tags/)
 - [Multi-Use Modal Popup](https://ghost-o-matic.com/multi-use-modal-popup/)
 - [Inline PDF Viewer](https://ghost-o-matic.com/inline-pdf-viewer/)
