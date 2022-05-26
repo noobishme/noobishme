@@ -22,10 +22,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Control Your Tags!](https://ghost-o-matic.com/control-your-tags/)
-- [Video: The Salty Pink Pools of the Yucatán](https://ghost.pub/test/)
-- [Contact Us](https://ghost.pub/contact/)
-- [Authors](https://ghost.pub/authors/)
-- [Membership](https://ghost.pub/membership/)
+- [Multi-Use Modal Popup](https://ghost-o-matic.com/multi-use-modal-popup/)
+- [Inline PDF Viewer](https://ghost-o-matic.com/inline-pdf-viewer/)
+- [Colorful Background Gradient](https://ghost-o-matic.com/colorful-background/)
+- [Grow Business](https://ghost.pub/grow-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
