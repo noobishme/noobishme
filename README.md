@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extra Functional Features in Ghost Themes](https://ghost-o-matic.com/extra-functional-features-in-ghost-themes/)
 - [Control Your Tags!](https://ghost-o-matic.com/control-your-tags/)
 - [Multi-Use Modal Popup](https://ghost-o-matic.com/multi-use-modal-popup/)
 - [Inline PDF Viewer](https://ghost-o-matic.com/inline-pdf-viewer/)
 - [Colorful Background Gradient](https://ghost-o-matic.com/colorful-background/)
-- [Grow Business](https://ghost.pub/grow-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
