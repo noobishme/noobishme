@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DocuHub Bugs](https://ghost.pub/docuhub-bugs/)
 - [Ghost Themes With Extras](https://ghost-o-matic.com/ghost-themes-with-extras/)
 - [Control Your Tags!](https://ghost-o-matic.com/control-your-tags/)
 - [Multi-Use Modal Popup](https://ghost-o-matic.com/multi-use-modal-popup/)
 - [Inline PDF Viewer](https://ghost-o-matic.com/inline-pdf-viewer/)
-- [Colorful Background Gradient](https://ghost-o-matic.com/colorful-background/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
