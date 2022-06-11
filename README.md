@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghost site Demo Content](https://ghost-o-matic.com/ghost-site-demo-content/)
 - [Featured Image Site Archive](https://ghost-o-matic.com/featured-image-site-archive/)
 - [Simple Modal](https://ghost-o-matic.com/simple-modal/)
 - [DocuHub Bugs](https://ghost.pub/docuhub-bugs/)
 - [Ghost Themes With Extras](https://ghost-o-matic.com/ghost-themes-with-extras/)
-- [Control Your Tags!](https://ghost-o-matic.com/control-your-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
