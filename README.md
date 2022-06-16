@@ -21,8 +21,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
 - [Custom Templates](https://ghost-o-matic.com/custom-content-templates/)
-- [Fancy Tag Cloud](https://ghost-o-matic.com/fancy-tag-cloud/)
 - [Test for TOC](https://ghost.pub/test-for-toc/)
 - [Ghost site Demo Content](https://ghost-o-matic.com/ghost-site-demo-content/)
 - [Featured Image Site Archive](https://ghost-o-matic.com/featured-image-site-archive/)
