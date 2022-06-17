@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
-- [Custom Templates](https://ghost-o-matic.com/custom-content-templates/)
 - [Test for TOC](https://ghost.pub/test-for-toc/)
-- [Ghost site Demo Content](https://ghost-o-matic.com/ghost-site-demo-content/)
-- [Featured Image Site Archive](https://ghost-o-matic.com/featured-image-site-archive/)
+- [Grow Business](https://ghost.pub/grow-business/)
+- [Targeted Niche](https://ghost.pub/targeted-niche-2/)
+- [Customer Support](https://ghost.pub/customer-support/)
+- [On-time Show](https://ghost.pub/on-time-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
