@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Audio Recorder Template](https://ghost-o-matic.com/audio-recorder-template/)
 - [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
 - [Custom Templates](https://ghost-o-matic.com/custom-content-templates/)
 - [Test for TOC](https://ghost.pub/test-for-toc/)
 - [Ghost site Demo Content](https://ghost-o-matic.com/ghost-site-demo-content/)
-- [Featured Image Site Archive](https://ghost-o-matic.com/featured-image-site-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
