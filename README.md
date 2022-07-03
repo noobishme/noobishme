@@ -1,6 +1,9 @@
 # Hi there, I'm nOObish!
 
+---
+
 ## I'm online...
+
 ### 📕 On Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
