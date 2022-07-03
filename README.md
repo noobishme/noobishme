@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Searching for Scripts](https://ghost-o-matic.com/ghost-forum-searches/)
 - [Speech-To-Text Publishing](https://ghost-o-matic.com/speech-to-text-publishing/)
 - [Text-To-Speech Publishing](https://ghost-o-matic.com/beyond-words/)
 - [Audio Recorder Template](https://ghost-o-matic.com/audio-recorder-template/)
 - [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
-- [Custom Template Helpers](https://ghost-o-matic.com/custom-template-helpers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ghost-o-matic.com)
