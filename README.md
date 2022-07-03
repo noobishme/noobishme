@@ -1,6 +1,6 @@
-# Hi there, I'm nOObish...
+# Hi there, I'm nOObish!
 
-## Where I am online
+## Where I am online...
 
 ### 📕 On Ghost-O-Matic.com
 
