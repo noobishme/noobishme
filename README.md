@@ -1,10 +1,13 @@
-# Hi there, I'm nOObish!
+# Hi there, I'm nOObish -- I'm online...
 
----
+<details>
+  <summary>### Developing Websites...</summary>
 
-## I'm online...
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noobishme&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-### 📕 On Ghost-O-Matic.com
+</details>
+
+#### 📕 Posting on Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Searching for Scripts](https://ghost-o-matic.com/ghost-forum-searches/)
@@ -37,11 +40,8 @@
 
 ---
 
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noobishme&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
