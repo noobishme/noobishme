@@ -16,8 +16,7 @@
 - [Audio Recorder Template](https://ghost-o-matic.com/audio-recorder-template/)
 - [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
 <!-- BLOG-POST-LIST:END -->
-
-    ➡️ [More on Ghost-O-Matic.com...](https://ghost-o-matic.com)
+[More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
 
 ---
 
