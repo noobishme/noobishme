@@ -1,7 +1,7 @@
 # Hi there, I'm Noobish
 
 
-### 📕 Latest Blog Posts
+### 📕 Latest Ghost-O-Matic.com Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Searching for Scripts](https://ghost-o-matic.com/ghost-forum-searches/)
@@ -11,7 +11,7 @@
 - [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://ghost-o-matic.com)
+➡️ [more blog posts on Ghost-O-Matic.com...](https://ghost-o-matic.com)
 
 ---
 
