@@ -1,22 +1,5 @@
 # Hi there, I'm Noobish
 
-### Connect with me:
-
-[![noobish.me](noobish.me)](https://noobish.me)
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/noobish#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/noobish#gh-dark-mode-only)
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/channel/UCT6TKhQvIo6oZCgU3ftCLaw)
-
----
 
 ### 📕 Latest Blog Posts
 
@@ -31,6 +14,27 @@
 ➡️ [more blog posts...](https://ghost-o-matic.com)
 
 ---
+
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/channel/UCT6TKhQvIo6oZCgU3ftCLaw)
+
+---
+
+### Connect with me:
+
+[![noobish.me](noobish.me)](https://noobish.me)
+&nbsp;&nbsp;
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/noobish#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/noobish#gh-dark-mode-only)
+
+---
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
