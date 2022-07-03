@@ -1,11 +1,11 @@
 # Hi there, I'm nOObish -- I'm online...
 
-<details>
-  <summary>### Developing Websites...</summary>
+<h2><details>
+  <summary>Developing Websites...</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noobishme&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+</details></h2>
 
 #### 📕 Posting on Ghost-O-Matic.com
 
@@ -17,7 +17,7 @@
 - [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More on Ghost-O-Matic.com...](https://ghost-o-matic.com)
+    ➡️ [More on Ghost-O-Matic.com...](https://ghost-o-matic.com)
 
 ---
 
