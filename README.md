@@ -1,13 +1,31 @@
-# Hi there, I'm nOObish -- I'm online...
+## Hi there, I'm nOObish -- I'm online at ➡ https://nOObish.me...
 
-<h2><details>
+<h3><details>
   <summary>Developing Websites...</summary>
 
   https://denverit.com/follow/
 
-</details></h2>
+</details></h3>
 
-#### 📕 Posting on Ghost-O-Matic.com
+<h3><details>
+  <summary>Providing Tech Support...</summary>
+  <br>
+  
+  - [For Seniors](https://denverit.com/seniors-tech-help/)
+  
+  - [For Entrepreneurs and Small Businesses](https://denverit.com/it-support-for-small-business/)
+  
+  - [Remotely](https://denverit.com/remote-support/)
+
+  - [On the Ghost CMS Forum](https://forum.ghost.org/u/denvergeeks/summary)
+  <br>
+
+</details></h3>
+
+<h3><details>
+  <summary>Posting On Blogs...</summary>
+  
+  #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Searching for Scripts](https://ghost-o-matic.com/ghost-forum-searches/)
@@ -17,8 +35,10 @@
 - [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
+  
+  https://microchic.fm
 
----
+</details></h3>
 
 
 ### 📺 Latest YouTube Videos
