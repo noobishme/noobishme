@@ -1,7 +1,8 @@
-# Hi there, I'm Noobish
+# Hi there, I'm nOObish...
 
+## Where I am online
 
-### 📕 Latest Ghost-O-Matic.com Blog Posts
+### 📕 On Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Searching for Scripts](https://ghost-o-matic.com/ghost-forum-searches/)
@@ -11,7 +12,7 @@
 - [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts on Ghost-O-Matic.com...](https://ghost-o-matic.com)
+➡️ [More on Ghost-O-Matic.com...](https://ghost-o-matic.com)
 
 ---
 
