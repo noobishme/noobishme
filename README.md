@@ -1,15 +1,16 @@
-## Hi there, I'm nOObish -- I'm online at ➡ https://nOObish.me...
+## Hi there, I'm nOObish -- I simplify techie things.
+
+### https://nOObish.me is my portal where you can find me...
 
 <h3><details>
   <summary>Developing Websites...</summary>
 
-  https://denverit.com/follow/
+  - https://denverit.com/follow/
 
 </details></h3>
 
 <h3><details>
   <summary>Providing Tech Support...</summary>
-  <br>
   
   - [For Seniors](https://denverit.com/seniors-tech-help/)
   
@@ -18,7 +19,6 @@
   - [Remotely](https://denverit.com/remote-support/)
 
   - [On the Ghost CMS Forum](https://forum.ghost.org/u/denvergeeks/summary)
-  <br>
 
 </details></h3>
 
