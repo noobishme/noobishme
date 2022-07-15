@@ -28,11 +28,11 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching for Scripts](https://ghost-o-matic.com/ghost-forum-searches/)
-- [Speech-To-Text Publishing](https://ghost-o-matic.com/speech-to-text-publishing/)
-- [Text-To-Speech Publishing](https://ghost-o-matic.com/beyond-words/)
-- [Audio Recorder Template](https://ghost-o-matic.com/audio-recorder-template/)
-- [Tag Cloud Template](https://ghost-o-matic.com/tag-cloud-template/)
+- [Test for TOC](https://ghost.pub/test-for-toc/)
+- [Grow Business](https://ghost.pub/grow-business/)
+- [Targeted Niche](https://ghost.pub/targeted-niche-2/)
+- [Customer Support](https://ghost.pub/customer-support/)
+- [On-time Show](https://ghost.pub/on-time-show/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
   
