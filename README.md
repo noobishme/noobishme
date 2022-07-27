@@ -44,6 +44,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [20220727 Adeline Unboxing 640x360](https://www.youtube.com/watch?v=4_0Z0Eb_yT0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCT6TKhQvIo6oZCgU3ftCLaw)
