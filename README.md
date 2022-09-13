@@ -10,15 +10,17 @@
 </details></h3>
 
 <h3><details>
-  <summary>Providing Tech Support...</summary>
+  <summary>Providing Tech Support and Bug Testing...</summary>
+  
+  - [On Discourse Meta](https://meta.discourse.org/u/denvergeeks/summary)
+  
+  - [On the Ghost CMS Forum](https://forum.ghost.org/u/denvergeeks/summary)
   
   - [For Seniors](https://denverit.com/seniors-tech-help/)
   
   - [For Entrepreneurs and Small Businesses](https://denverit.com/it-support-for-small-business/)
   
   - [Remotely](https://denverit.com/remote-support/)
-
-  - [On the Ghost CMS Forum](https://forum.ghost.org/u/denvergeeks/summary)
 
 </details></h3>
 
