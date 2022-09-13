@@ -45,10 +45,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [20220727 Adeline Unboxing 640x360](https://www.youtube.com/watch?v=4_0Z0Eb_yT0)
+- [Glorious Gloria!](https://www.youtube.com/watch?v=RrdV3AgI00w)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/channel/UCT6TKhQvIo6oZCgU3ftCLaw)
+➡️ [more videos...](https://youtube.com/channel/UCy5k04S18xwc9ytGnIArNCQ)
 
 ---
 
