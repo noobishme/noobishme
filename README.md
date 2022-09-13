@@ -69,6 +69,7 @@
 
 [website]: https://noobish.me
 [youtube]: https://youtube.com/channel/UCT6TKhQvIo6oZCgU3ftCLaw
+[youtube]: https://youtube.com/channel/UCy5k04S18xwc9ytGnIArNCQ
 [linkedin]: https://linkedin.com/in/noobish
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
