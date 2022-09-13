@@ -2,9 +2,7 @@
 
 ### You can find my portal site at https://nOObish.me
 
-### You can also find me...
-
-<h3>Providing Tech Support and Bug Testing...</h3>
+### You can also find me providing Tech Support and Bug Testing...
   
   - [On Discourse Meta](https://meta.discourse.org/u/denvergeeks/summary)
   
