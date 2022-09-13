@@ -2,15 +2,7 @@
 
 ### At https://nOObish.me you can find me...
 
-<h3><details>
-  <summary>Developing Websites...</summary>
-
-  - https://denverit.com/follow/
-
-</details></h3>
-
-<h3><details>
-  <summary>Providing Tech Support and Bug Testing...</summary>
+<h3>Providing Tech Support and Bug Testing...</h3>
   
   - [On Discourse Meta](https://meta.discourse.org/u/denvergeeks/summary)
   
@@ -21,6 +13,11 @@
   - [For Entrepreneurs and Small Businesses](https://denverit.com/it-support-for-small-business/)
   
   - [Remotely](https://denverit.com/remote-support/)
+
+<h3><details>
+  <summary>Developing Websites...</summary>
+
+  - https://denverit.com/follow/
 
 </details></h3>
 
