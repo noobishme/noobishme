@@ -2,6 +2,8 @@
 
 ### You can find my portal site at https://nOObish.me
 
+  - [About Me]([https://meta.discourse.org/u/denvergeeks/summary](https://noobish.me/t/hello-there-i-am-noobish-i-am-simple/7))
+
 ### You can also find me providing Tech Support and Bug Testing...
   
   - [On Discourse Meta](https://meta.discourse.org/u/denvergeeks/summary)
