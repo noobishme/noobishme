@@ -29,11 +29,11 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroLink API](https://ghost-o-matic.com/microlink-api/)
 - [OneBox Preview on Hover](https://ghost-o-matic.com/onebox-preview-on-hover/)
 - [Link Previews on Hover](https://ghost-o-matic.com/link-previews-on-hover/)
 - [Searching for Scripts](https://ghost-o-matic.com/ghost-forum-searches/)
 - [Speech-To-Text Publishing](https://ghost-o-matic.com/speech-to-text-publishing/)
-- [Text-To-Speech Publishing](https://ghost-o-matic.com/beyond-words/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
   
