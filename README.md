@@ -1,4 +1,4 @@
-## Hi there, I'm nOObish -- I simplify techie things.
+## Hi there, I'm nOObish -- I simplify techie things for Humans.
 
 ### You can find my portal site at https://nOObish.me
 
