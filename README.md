@@ -1,6 +1,6 @@
 ## Hi there, I'm nOObish -- I simplify techie things for Humans.
 
-### You can find my portal site at https://nOObish.me
+### You can find my portal at https://nOObish.me
 
   - [About Me page on nOObish.me](https://noobish.me/t/hello-there-i-am-noobish-i-am-simple/7)
 
