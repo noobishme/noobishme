@@ -29,11 +29,11 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Colors and Gradients](https://ghost-o-matic.com/colors-and-gradients/)
 - [Ghost Site Injection-Only Drop Down Menu](https://ghost-o-matic.com/ghost-site-injection-only-drop-down-menu/)
 - [Tag Post Archive Template](https://ghost-o-matic.com/tag-post-archive-template/)
 - [MicroLink API](https://ghost-o-matic.com/microlink-api/)
 - [OneBox Preview on Hover](https://ghost-o-matic.com/onebox-preview-on-hover/)
-- [Link Previews on Hover](https://ghost-o-matic.com/link-previews-on-hover/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
   
