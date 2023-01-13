@@ -29,11 +29,11 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Expandable Ticker](https://ghost-o-matic.com/expandable-ticker/)
-- [Colors and Gradients](https://ghost-o-matic.com/colors-and-gradients/)
-- [Ghost Site Injection-Only Drop Down Menu](https://ghost-o-matic.com/ghost-site-injection-only-drop-down-menu/)
-- [Tag Post Archive Template](https://ghost-o-matic.com/tag-post-archive-template/)
-- [MicroLink API](https://ghost-o-matic.com/microlink-api/)
+- [Grow Business](https://ghost.pub/grow-business/)
+- [Targeted Niche](https://ghost.pub/targeted-niche-2/)
+- [Customer Support](https://ghost.pub/customer-support/)
+- [On-time Show](https://ghost.pub/on-time-show/)
+- [Live Radio Station](https://ghost.pub/live-radio-station/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
   
