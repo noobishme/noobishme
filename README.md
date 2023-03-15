@@ -29,11 +29,11 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Menu](https://ghost-o-matic.com/mobile-menu/)
-- [Using Details-Summary for Mobile Menus](https://ghost-o-matic.com/using-details-summary-for-mobile-menus/)
+- [Accordions - One Open at a Time](https://ghost-o-matic.com/accordions-one-open-at-a-time/)
+- [Hamburger Menu Using Details-Summary](https://ghost-o-matic.com/hamburger-menu-using-details-summary/)
+- [Responsive Details-Summary Menu](https://ghost-o-matic.com/responsive-details-summary-menu/)
 - [Pretty Simple Accordions](https://ghost-o-matic.com/pretty-simple-accordions/)
 - [Expandable Ticker](https://ghost-o-matic.com/expandable-ticker/)
-- [Colors and Gradients](https://ghost-o-matic.com/colors-and-gradients/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
   
