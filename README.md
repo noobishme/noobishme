@@ -29,7 +29,7 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Sortable Tables in Details/Summary](https://ghost-o-matic.com/untitled-3/)
+- [Sortable Tables in Details/Summary](https://ghost-o-matic.com/sortable-tables-in-details-summary/)
 - [Accordions - One Open at a Time](https://ghost-o-matic.com/accordions-one-open-at-a-time/)
 - [Hamburger Menu Using Details-Summary](https://ghost-o-matic.com/hamburger-menu-using-details-summary/)
 - [Responsive Details-Summary Menu](https://ghost-o-matic.com/responsive-details-summary-menu/)
