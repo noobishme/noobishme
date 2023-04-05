@@ -29,7 +29,7 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
-- [93 Free CSS box-shadows](https://ghost-o-matic.com/93-free-css-box-shadows/)
+- [Hundreds of Free CSS Copy-Paste Clips](https://ghost-o-matic.com/93-free-css-box-shadows/)
 - [CSS position:sticky Not Working?](https://ghost-o-matic.com/css-position-sticky-not-working/)
 - [TocBot in a Select Box](https://ghost-o-matic.com/tocbot-in-a-select-box/)
 - [Prefetch Internal Link on Hover](https://ghost-o-matic.com/prefetch-internal-link-on-hover/)
