@@ -29,11 +29,11 @@
   #### 📕 Ghost-O-Matic.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Grow Business](https://ghost.pub/grow-business/)
-- [Targeted Niche](https://ghost.pub/targeted-niche-2/)
-- [Customer Support](https://ghost.pub/customer-support/)
-- [On-time Show](https://ghost.pub/on-time-show/)
-- [Live Radio Station](https://ghost.pub/live-radio-station/)
+- [Hundreds of Free CSS Copy-Paste Clips](https://ghost-o-matic.com/93-free-css-box-shadows/)
+- [CSS position:sticky Not Working?](https://ghost-o-matic.com/css-position-sticky-not-working/)
+- [TocBot in a Select Box](https://ghost-o-matic.com/tocbot-in-a-select-box/)
+- [Prefetch Internal Link on Hover](https://ghost-o-matic.com/prefetch-internal-link-on-hover/)
+- [Responsive Fonts](https://ghost-o-matic.com/responsive-fonts/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
   
