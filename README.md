@@ -31,9 +31,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hundreds of Free CSS Copy-Paste Clips](https://ghost-o-matic.com/93-free-css-box-shadows/)
 - [CSS position:sticky Not Working?](https://ghost-o-matic.com/css-position-sticky-not-working/)
-- [TocBot in a Select Box](https://ghost-o-matic.com/tocbot-in-a-select-box/)
 - [Prefetch Internal Link on Hover](https://ghost-o-matic.com/prefetch-internal-link-on-hover/)
 - [Responsive Fonts](https://ghost-o-matic.com/responsive-fonts/)
+- [Sortable Tables in Details/Summary](https://ghost-o-matic.com/sortable-tables-in-details-summary/)
 <!-- BLOG-POST-LIST:END -->
 [More on Ghost-O-Matic.com >>](https://ghost-o-matic.com)
   
